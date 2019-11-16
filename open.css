@@ -1,0 +1,19 @@
+
+fieldset{
+  height: 450px;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(powderblue,magenta); /
+}
+h1 {
+  text-shadow: 2px 2px #ff0000;
+}
+h1:hover{
+color:blue;
+text-shadow: 2px 2px #ff4000;
+}
+h2{
+color:#000066;
+}
+h2:hover{
+color:crimson;
+}
